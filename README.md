@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1W74dkNRVV_5uvhFSjSirUd4hdFq9600E
+Live Demo: https://devops-hub-t25k.vercel.app/
 
 ## Run Locally
 
